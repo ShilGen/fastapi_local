@@ -1,0 +1,4 @@
+fastapi[staandart]
+fastapi-users[sqlalchemy]
+uvicorn[standard]
+aiosqlite
